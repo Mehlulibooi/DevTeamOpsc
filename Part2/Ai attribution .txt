@@ -1,0 +1,43 @@
+//Chat-gpt: Prompt 
+//android Diet mock up picture Code 
+//Brief: we use a image to help suggest possible a layout of the dashboard
+
+//Chat-gpt: Prompt 
+//Android Studio layout design
+//Brief: Used to help redesign the layout as selections overlapping
+
+//Chat-gpt: Prompt 
+//scrollView Layout fix 
+//Brief: Android scroll view bug on the xml layout
+
+//Chat-gpt: Prompt 
+//Vital-Sync Fitness app Login Page 
+//Brief: used to fix bug when designing the login page
+
+//Chat-gpt: Prompt 
+//Blog Api 
+//Brief: use to explain what is a blog api and can integrated it in the diet tracker app 
+
+//Chat-gpt: Prompt 
+//Xml Layout modification
+//Brief: Use to help a issues face on health guide section regards to the layout  
+
+//Chat-gpt: Prompt 
+//Privacy Consent message example
+//Brief: to give us a good example to work from for the info of privacy and security of the application
+
+//Chat-gpt: Prompt 
+//Input boxes Layout  example
+//Brief: we this code example to help create the settings page 
+ 
+//Chat-gpt: Prompt 
+//Green Colour code
+//Brief: hex code colour 
+
+//Chat-gpt: Prompt 
+//List view navigation Code example
+//Brief: used this code to give a direction to help link pages 
+
+
+
+
